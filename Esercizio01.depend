@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1667469264 source:d:\4 anno\sistemi\puntatori\esercizio01_pt\esercizio01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"../../../Funzioni.h"
+
+1643877532 d:\4 anno\sistemi\funzioni.h
+	<time.h>
+	<windows.h>
+
